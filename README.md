@@ -18,9 +18,9 @@ Assignment:
 
 # Solution
 
-Github-Notebook : [https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/AdvancedTraining.ipynb](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/AdvancedTraining.ipynb)
+Github-Notebook : [https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/AdvancedTraining.ipynb](https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/AdvancedTraining.ipynb)
 
-Google-Colab: https://colab.research.google.com/github/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/AdvancedTraining.ipynb
+Google-Colab: https://colab.research.google.com/github/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/AdvancedTraining.ipynb
 
 ## Model Stats
 
@@ -33,15 +33,15 @@ Max Test Accuracy: 92.03
 
 ## Model Metrics
 
-![enter image description here](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/metrics_1.png?raw=true)
+![enter image description here](https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/metrics_1.png?raw=true)
 
-![enter image description here](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/metrics_2.png?raw=true)
+![enter image description here](https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/metrics_2.png?raw=true)
 
 ## Grad-CAM
 
-![enter image description here](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/gradcam.png?raw=true)
+![enter image description here](https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/gradcam.png?raw=true)
 
 ## Misclassifications Grad-CAM
 
-![enter image description here](https://github.com/satyajitghana/TSAI-DeepVision-EVA4.0/blob/master/10_AdvancedTraining/misclassified_gradcam.png?raw=true)
+![enter image description here](https://github.com/Keerthi001/10th-Assignment-AdvancedTraining/blob/main/misclassified_gradcam.png?raw=true)
 
